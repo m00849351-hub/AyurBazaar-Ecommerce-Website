@@ -27,7 +27,7 @@ A modern Ayurvedic e-commerce web application built using Flask, focused on crea
 
 ## 📸 Project Preview
 
-(Add homepage and feature screenshots here)
+
 
 ---
 
