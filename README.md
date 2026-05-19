@@ -1,29 +1,38 @@
-🌿 AyurBazaar – Natural Ayurvedic Store
+# 🌿 AyurBazaar – Natural Ayurvedic Store
 
-A modern e-commerce website built using Flask.
+A modern Ayurvedic e-commerce web application built using Flask, focused on creating a clean, user-friendly, and responsive shopping experience for natural wellness products.
 
-🚀 Features
+---
 
-- User Authentication (Login/Signup)
+## 🚀 Features
+
+- User Authentication (Login / Signup)
 - Product Listing & Categories
-- Cart System 🛒
-- Wishlist ❤️
+- Shopping Cart System 🛒
+- Wishlist Functionality ❤️
 - Search Functionality 🔍
+- Responsive User Interface
 
-🛠 Tech Stack
+---
+
+## 🛠 Tech Stack
 
 - Python (Flask)
-- HTML, CSS
-- Session-based Storage
+- HTML5
+- CSS3
+- JavaScript
+- Session-Based Storage
 
-🌐 How to Run
+---
 
-1. Install Flask
-2. Run "python app.py"
-3. Open http://127.0.0.1:5000/
+## 📸 Project Preview
 
-💚 Future Improvements
+(Add homepage and feature screenshots here)
 
-- Payment Gateway
-- Product Reviews
-- Database Integration
+---
+
+## 🌐 How to Run Locally
+
+1. Install Flask:
+```bash
+pip install flask
